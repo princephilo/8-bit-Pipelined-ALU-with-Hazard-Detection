@@ -1,0 +1,5 @@
+# Compiled Verilog binaries
+*_sim
+
+# Waveform files
+*.vcd
