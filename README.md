@@ -39,8 +39,10 @@ gtkwave waves.vcd
 
 If you want the waveform screenshot to appear directly in this README, place the waveform image at `images/waves.png`. When present, it will be displayed below.
 
-![Waveform preview](images/waves.png)
+
 
 ---
 
 If you'd like, I can add the screenshot file directly to the repository and push the changes to GitHub — provide the image file or confirm that I should use the attached image from this chat.
+<img width="1470" height="956" alt="Screenshot 2026-06-26 at 18 02 03" src="https://github.com/user-attachments/assets/580efd0e-4be7-4493-a13c-fe4f6e7b8ad8" />
+
